@@ -1,3 +1,4 @@
+
 Ex.No.4-Generate the Prompt for the following prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts.
 
 Aim: 
@@ -40,5 +41,6 @@ Everyday Functioning Prompts:
   “How is encryption used in daily life when sending WhatsApp messages?”
 
   OUTPUT:
+  [SWATHI A N PE EXP 4.pdf](https://github.com/user-attachments/files/28227091/SWATHI.A.N.PE.EXP.4.pdf)
 
-  RESULT:
+
